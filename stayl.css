@@ -1,0 +1,160 @@
+h1{
+margin: 10px;
+}
+
+h3{
+    color: black;
+}
+.caja1{
+    background: #5D3A3A;
+    width: 400px;
+    height: 400px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 100px;
+
+}
+
+.ejercicio1{
+    width: 192px;
+    height: 192px;
+    background: #B5E0BA;
+    margin-left: 9;
+}
+
+.caja2{
+    background:#62374E;
+    width: 400px;
+    height: 400px;
+    border: 2px solid rgb(0, 0, 0);
+    position: relative;
+    margin: 100px;
+
+}
+
+.ejercicio2{
+    width:50px;
+    height:50px;
+    background:#fdc57b;
+    margin-top: 55px;
+    margin-left:55px;
+    display:inline-block;
+    position: absolute;
+}
+    
+.a{
+    width:50px;
+    height:50px;
+    background:#fdc57b;
+    margin-left: 200px;
+    position: absolute;
+}
+
+.b{
+    width:50px;
+    height:50px;
+    background:#fdc57b; 
+    margin-top:250px;
+    margin-left:4px;
+    position: absolute;
+}
+
+.c{
+    width:50px;
+    height:50px;
+    background:#fdc57b;
+    margin-top:250px;
+    margin-left:200px;
+    position: absolute;
+}
+
+.caja3{
+    background: #6592CF;
+    width: 400px;
+    height: 400px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 100px;
+
+}
+
+.ejercicio3{
+    width: 300px;
+    height: 150px;
+    background: #243D83;
+    position: relative;
+    margin: 130px;
+    margin-left:50px;
+    
+}
+
+.d{
+    width: 251px;
+    height: 251px;
+    border-radius: 51%;
+    border-radius: 51%;
+   	border-radius: 51%;
+    background: #6592CF;
+	position: absolute;
+	top:-60px;
+    left:25px;
+}
+
+.e{
+    width: 150px;
+    height: 150px;
+    border-radius: 49%;
+    border-radius: 49%;
+   	border-radius: 49%;
+	background: #243D83;
+	position: absolute;
+    left:75px;
+}
+
+.f{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border-radius: 50%;
+   	border-radius: 50%;
+    background: #EEB850;
+	position: absolute;
+    top:50px;
+    left:125px;
+}
+
+.caja4{
+    background:#62306D;
+    width: 400px;
+    height: 400px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 100px;
+}
+
+.ejercicio4{
+    width: 100px;
+    height: 100px;
+    background: #F7EC7D;
+    margin-top:150px;
+    margin-left:42px;
+    border-radius:0 0 50px 50px;
+    position: relative;
+}
+
+.g{
+    width: 100px;
+    height: 100px;
+    background: #F7EC7D;
+    margin-top: -200px;
+    margin-left:142px;
+    border-radius:50px 50px 0 0;
+    position: absolute;
+}
+
+.h{
+    width: 100px;
+    height: 100px;
+    background: #F7EC7D;
+    margin-top: -100px;
+    margin-left:242px;
+    border-radius:0 0 50px 50px;
+    position: relative;
+}
